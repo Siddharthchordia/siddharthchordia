@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Siddharth
 
-<!--
-**Siddharthchordia/siddharthchordia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student at **Bennett University**, passionate about building real-world applications in **Artificial Intelligence** and **Python**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I’m working on
+- 🤟 **Gestura** — Real-time ASL gesture recognition with live subtitles using a virtual camera
+
+---
+
+## 💡 Interests
+- Deep Learning (LSTM, CNN, Attention)
+- Computer Vision & Gesture Recognition
+- Video & Motion Design
+- Open-source collaboration
+
+---
+
+## 📌 Personal Projects
+All repositories on this profile are personal projects — experiments, tools, and ideas I’m building and learning from.
+
+---
+
+## 🌱 Currently Learning
+- Advanced model deployment
+- UI design for ML-powered apps
+- Real-time systems with OpenCV & MediaPipe
+
+---
+
+## 📫 Let's Connect
+- GitHub: [@SiddharthChordia](https://github.com/Siddharthchordia)
+- Email: sidxdeveloper@gmail.com
+
+---
+
+> “Build things. Break things. Learn faster.”
