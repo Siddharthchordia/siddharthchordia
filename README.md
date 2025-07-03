@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Siddharth
 
-🎓 I'm a student at **Bennett University**, passionate about building real-world applications in **Artificial Intelligence** and **Python**.
+🎓 I'm a student at **Bennett University**, passionate about building real-world applications in **Artificial Intelligence**, **Machine Learning** and **Python**.
 
 ---
 
