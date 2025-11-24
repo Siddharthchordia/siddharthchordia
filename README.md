@@ -4,11 +4,6 @@
 
 ---
 
-## 🛠️ What I’m working on
-- 🤟 **Gestura** — Real-time ASL gesture recognition with live subtitles using a virtual camera
-
----
-
 ## 💡 Interests
 - Deep Learning (LSTM, CNN, Attention)
 - Computer Vision & Gesture Recognition
